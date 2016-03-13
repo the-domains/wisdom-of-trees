@@ -1,0 +1,28 @@
+name: Wisdom of Trees
+favicon: null
+layout_spectrum: 0.6671558362431824
+typography_spectrum: 0.6394391339272261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.19324695458635688
+  lightness: 0.244536412646994
+  saturation: 0.7865420510061085
+  rhythmicContrast: 0.19489653105847538
+purpose: []
